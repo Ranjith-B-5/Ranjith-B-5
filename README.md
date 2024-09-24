@@ -2,13 +2,10 @@
 Hi 👋 My name is Ranjith
 ========================
 
-Competent Developer who likes to think out of the box
------------------------------------------------------
 
 Always curious to know more about web devlopment ,cybersecurity and futuristic promising technologies such as blockchain. Currently pursuing B.Tech in Computer Science Engineering @ NSSCE Palakkad.
 
 * 🌍  I'm based in Palakkad,Kerala
-* 🖥️  See my portfolio at [asap](http://.)
 * ✉️  You can contact me at [am.ranju007@gmail.com](mailto:am.ranju007@gmail.com)
 * 🚀  I'm currently working on [My portfolio website](http://.)
 * 🧠  I'm learning React JS and Cybersecurity
